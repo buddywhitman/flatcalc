@@ -48,7 +48,7 @@ public class Print
         System.out.println("\t\t\t\t         Wishing you a hassle-free home buying experience!\n");
         System.out.println("\t\t\t            PLEASE DO NOT EXCHANGE BRIBES. BE A RESPONSIBLE CITIZEN.");
         System.out.println("\t\t\t           REPORT ANY SUCH EXCHANGE TO THE NEAREST VIGILANCE OFFICER.\n\n");
-        System.out.println("\t        If you liked this project, please consider donating to the developer :) (helps us serve you better)");
+        System.out.println("\t        If you liked this project, please consider donating to the developer :) helps us serve you better!");
         System.out.println("\t\t\t\tBitcoin Wallet Address: 0xA49c4F9277E9C80Dc9176700bF6Dd845313ab");
             
     }    

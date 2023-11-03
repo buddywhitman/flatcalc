@@ -4,7 +4,7 @@ public class Print
     {
         double famt = Build.buildamt+Gov.govtamt+Bank.bankamt;
         
-        System.out.println("_______________________________________________________Build.buildername________________________________________________________");
+        System.out.println("_______________________________________________________"+Build.buildername+"________________________________________________________");
         System.out.println("Carpet Area: "+Build.carpetarea);
         System.out.println("Price/sqft: ₹"+Build.rspersqft);
         System.out.printf("Basic Sale Price: ₹"+Build.bsp);
